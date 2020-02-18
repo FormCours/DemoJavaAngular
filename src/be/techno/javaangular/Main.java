@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("Hello GIT");
 
-        System.out.println("Test");
+        System.out.println("Bonjour");
 
 
     }
